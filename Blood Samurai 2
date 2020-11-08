@@ -1,4 +1,4 @@
-wait(1)
+wait(5)
 --[[
 AztupBrew(Fork of IronBrew2): obfuscation; Version 2.7.2
 ]]
